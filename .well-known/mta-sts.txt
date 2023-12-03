@@ -1,5 +1,5 @@
 version: STSv1
 mode: testing
-mx: mx.lapan.org
+mx: mx1.lapan.org
 mx: mx2.lapan.org
 max_age: 86400
