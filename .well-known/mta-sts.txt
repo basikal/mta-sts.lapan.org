@@ -1,6 +1,5 @@
 version: STSv1
 mode: testing
-mx: mx.zoho.eu
-mx: mx2.zoho.eu
-mx: mx3.zoho.eu
+mx: mx.lapan.org
+mx: mx2.lapan.org
 max_age: 86400
